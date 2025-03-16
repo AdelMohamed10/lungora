@@ -1,8 +1,8 @@
 Flask==2.2.3
 Pillow==9.4.0
-torch==2.5.1
-torchvision==0.20.1
-transformers==4.47.1
+torch==2.0.0
+torchvision==0.15.0
+transformers
 requests
 gdown
 gunicorn
